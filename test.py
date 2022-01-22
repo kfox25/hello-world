@@ -8,3 +8,5 @@ def test():
     pass
 
 x = 12.16
+
+y = 12.17
