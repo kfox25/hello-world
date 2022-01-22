@@ -6,3 +6,5 @@ print('Goodbye')
 
 def test():
     pass
+
+x = 12.16
