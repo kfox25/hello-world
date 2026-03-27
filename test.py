@@ -7,7 +7,7 @@ print('Goodbye')
 def test():
     pass
 
-x = 12.16
+x = 12.15
 
 y = 12.17
 
